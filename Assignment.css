@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(11, 195, 51);
+}
+
+
+.head{
+   margin: auto; 
+   padding-left: 15px;
+   padding-right: 15px;
+   text-align: center;
+}
+
+.subhead{
+    text-align: center;
+    margin: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(27, 162, 90);
+    width: 800px;
+    line-height: 28px;
+    font-size: medium;
+    box-shadow: 10px 10px green;
+}
+h3{
+    color: whitesmoke;
+    font-weight: bold;
+    
+    
+}
+h1{
+    font-weight: bold;
+    font-family:
+}
+span{
+    font-weight: bold;
+}
